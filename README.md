@@ -11,6 +11,9 @@ This IoT health monitoring system, implemented on Arduino UNO, collects real-tim
 - **Heart Rate Acquisition Module:** Measures heart rate variability (HRV), an essential physiological variable for estimating cardiac autonomic function.
 - **ESP8266 Wi-Fi Module:** A self-contained SOC with an integrated TCP/IP protocol stack, providing access to WiFi networks for any microcontroller. Capable of hosting applications or offloading WiFi networking functions from another processor, it offers powerful on-board processing and storage, facilitating seamless integration with sensors and other devices via GPIOs. This module enables effortless connectivity to Arduino UNO for the project's implementation.
 
+## System Architecture 
+![Sai Maansi Resume](https://github.com/saimaansi13/Smart-health-monitoring-system-for-Covid-19-Patients-/assets/125540201/74723325-a753-4b8a-861d-eacd954027b9)
+
 ## Hardware Requirements
 
   ![Your paragraph text (1)](https://github.com/saimaansi13/Smart-health-monitoring-system-for-Covid-19-Patients-/assets/125540201/b7d66ad9-1a66-4a0f-891f-e32464f2c959)
