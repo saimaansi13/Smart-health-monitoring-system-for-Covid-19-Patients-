@@ -17,4 +17,6 @@ This IoT health monitoring system, implemented on Arduino UNO, collects real-tim
 ![Your paragraph text](https://github.com/saimaansi13/Smart-health-monitoring-system-for-Covid-19-Patients-/assets/125540201/290f28d6-1c65-4505-b62e-7b51474e4046)
 
 ## Software Requirement
+### ThingSpeak
+ThingSpeak, an IoT cloud platform, facilitates the transmission of sensor data, visualization, and analysis using tools such as MATLAB.
 
